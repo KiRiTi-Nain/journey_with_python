@@ -6,7 +6,8 @@ match name:
         print("Gryffindor")
     case "Draco":
         print("Slytherin")
-  
+    case _:
+        print("who?")  
 
 
 
